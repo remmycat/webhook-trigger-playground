@@ -1,0 +1,19 @@
+{
+  "name": "webhook-trigger-playground",
+  "version": "1.0.0",
+  "description": "Just a playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remmycat/webhook-trigger-playground.git"
+  },
+  "author": "Remmy Cat Stock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remmycat/webhook-trigger-playground/issues"
+  },
+  "homepage": "https://github.com/remmycat/webhook-trigger-playground#readme"
+}
