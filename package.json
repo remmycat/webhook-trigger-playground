@@ -1,6 +1,6 @@
 {
   "name": "webhook-trigger-playground",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Just a playground",
   "main": "index.js",
   "scripts": {
